@@ -3,16 +3,27 @@
     width: 120px;
     padding: 5px;
     margin-bottom: 50px;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 .btn-2{
     background-color: rgb(238, 29, 15);
     margin-left: 20px;
 }
+.btn-1:hover
+{
+font-size: 22px;
+font-family: 'Courier New', Courier, monospace;
+transition: 0.5;
+color: white;
+}
 
     body{
         background-color: aqua;
-        color:black: 
+        color:blue;
     
     }
     .color{
